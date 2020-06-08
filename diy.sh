@@ -1,6 +1,6 @@
 #!/bin/bash
 #=================================================
-# Description: sunvid
+# Description: p3terx
 # Lisence: MIT
 # Author: P3TERX
 # Blog: https://p3terx.com
